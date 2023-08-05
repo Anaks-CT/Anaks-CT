@@ -24,7 +24,7 @@
 
 <div align='center'><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG" /></div>
 
-
+‎ ‎ 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,figma,redux,tailwind,css,figma,bootstrap&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,threejs,materialui,netlify,firebase,nginx,github,postgresql&theme=light)](https://skillicons.dev)
