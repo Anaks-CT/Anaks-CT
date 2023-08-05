@@ -16,17 +16,14 @@
 
 
 - 🏫 Currently at a self-learning platform `Brototype`.
-- 🔭 Check out all `my projects` and experience - <a href="">MY WEBSITE</a>
-- 🤔 I’m currently open for a new `job opportunity`, this is<a href=""> MY RESUME.</a>
+- 🔭 Check out all `my projects` and experience - <a href="https://anaksct.netlify.app/">MY WEBSITE</a>
+- 🤔 I’m currently open for a new `job opportunity, this is<a href="https://docs.google.com/document/d/1ACcRZOerPCudZES9nODJppINhQQOVJ3cg0kfJR2dMzk/edit"> MY RESUME.</a>
 - 💻 Love to build complex yet `scalable` Projects.
 - 📫 You can reach out to me at **anaksct.dev@gmail.com**
 - 🤓 Always learning new things. </div>
 
 <div align='center'><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Typing SVG" /></div>
 
-<div style="padding-left: 25px"><strong style="font-size: 18px;"> <span style="font-size: 28px;">🛠️</span> My Skills </strong>
-
-<br></br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,figma,redux,tailwind,css,figma,bootstrap&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman&theme=light)](https://skillicons.dev)
