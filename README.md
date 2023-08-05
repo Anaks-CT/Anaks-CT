@@ -26,7 +26,7 @@
 
 <div style="padding-left: 25px"><strong style="font-size: 18px;"> <span style="font-size: 28px;">🛠️</span> My Skills </strong>
 
-</br>
+<br></br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,figma,redux,tailwind,css,figma,bootstrap&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,git,postman&theme=light)](https://skillicons.dev)
