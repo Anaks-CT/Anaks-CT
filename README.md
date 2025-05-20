@@ -15,7 +15,7 @@
 <div style="padding-left: 25px" ><img  alt="Coding" width="35" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" /><strong style="font-size: 18px;">About me </strong>
 
 
-- 🏫 Software Developer at `Antwalk`.
+- 🏫 Software Developer at `Inkle`.
 - 🔭 Check out all `my projects` and experience - <a href="https://anaksct.netlify.app/">MY WEBSITE</a>
 - 🤔 I’m currently open for a new `job opportunity, this is<a href="https://docs.google.com/document/d/1ACcRZOerPCudZES9nODJppINhQQOVJ3cg0kfJR2dMzk/edit"> MY RESUME.</a>
 - 💻 Love to build complex yet `scalable` Projects.
